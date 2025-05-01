@@ -1,54 +1,58 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/shoppie)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/shoppie?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/shoppie?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/dZV-y3GzBlg?style=social)](https://youtu.be/dZV-y3GzBlg)
+
 
   <br />
   <br />
 
   <h2 align="center">Shoppie - eCommerce Website</h2>
 
-  Shoppie is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Shoppie is a fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/shoppie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mens-collection-indol.vercel.app/"><strong>➥ Live Demo (Vercel)</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![Shoppie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Project Overview
 
-### Run Locally
+Shoppie is a modern, fully responsive ecommerce website designed to provide a seamless shopping experience across all devices. It features a clean and user-friendly interface built with HTML, CSS, and JavaScript, making it easy to customize and extend.
 
-To run **Shoppie** locally, run this command on your git bash:
+### Features
 
-Linux and macOS:
+- Fully responsive design for desktop, tablet, and mobile devices
+- Product listing with images and descriptions
+- Interactive UI elements powered by JavaScript
+- Easy to customize and extend
+- Lightweight and fast loading
 
-```bash
-sudo git clone https://github.com/codewithsadee/shoppie.git
-```
+### Technologies Used
 
-Windows:
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-```bash
-git clone https://github.com/codewithsadee/shoppie.git
-```
+### Deployment
+
+This project is deployed and hosted on Vercel. You can access the live version here:  
+[https://mens-collection-indol.vercel.app/](https://mens-collection-indol.vercel.app/)
+
+### Demo Screenshots
+
+![Shoppie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Email](brianmwasbayo@gmail.com).
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is open source
