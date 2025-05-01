@@ -44,10 +44,6 @@ Shoppie is a modern, fully responsive ecommerce website designed to provide a se
 This project is deployed and hosted on Vercel. You can access the live version here:  
 [https://mens-collection-indol.vercel.app/](https://mens-collection-indol.vercel.app/)
 
-### Demo Screenshots
-
-![Shoppie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
 
 ### Contact
 
